@@ -1,0 +1,13 @@
+Lionel,Messi,170,Delantero,700,800,true,10,Barcelona
+Cristiano,Ronaldo,187,Delantero,780,850,false,7,Manchester United
+Neymar Jr.,Silva,175,Delantero,230,300,false,10,Paris Saint-Germain
+Sergio,Ramos,184,Defensa,100,600,false,4,Paris Saint-Germain
+Robert,Lewandowski,184,Delantero,450,400,false,9,Bayern Munich
+Kevin,De Bruyne,181,Centrocampista,80,200,false,17,Manchester City
+Virgil,van Dijk,193,Defensa,30,400,false,3,Liverpool
+Luka,Modric,172,Centrocampista,40,350,false,10,Real Madrid
+Harry,Kane,188,Delantero,280,350,false,8,Tottenham Hotspur
+Kylian,Mbappé,178,Delantero,150,200,false,7,Paris Saint-Germain
+Enzo,Pérez,177,Centrocampista,60,300,false,24,River Plate
+Gonzalo,Martínez,173,Delantero,90,150,false,10,River Plate
+Franco,Armani,189,Portero,0,200,false,1,River Plate
